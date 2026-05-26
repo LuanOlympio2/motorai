@@ -1,0 +1,479 @@
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: Olá, como você está?
+GERACAO: �  A ua, de banso a grio da Cormamento e var, o lração, sem, que que não ser a liente ócado de borpar. Mão o lor da que de maci
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: O Brasil é um país
+GERACAO: , as casres-,.Nmém que de la do rio do Fite da Tenro, de que a que de o sio do cíário, o bi, da Menia de que de umasa, não de que do suasa de
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: Era uma vez
+GERACAO: .Nem de lá de gomma. Eca o anta de umporre de sas do celar.Eem, se de ível.Da Eu] não é a proposção de po de plica, a c
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: Explique o que é uma árvore
+GERACAO: de a palma,, as a rema de Pen. Noccos e que, o gomnto de bo e com a páção, a felta que do momtio, senssendo com de anos, e bos de
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: Hoje eu fui ao mercado e
+GERACAO: corentes.A posos de rátiles. Eta,, uma que a lelho de pelicios de um vares de vé. Agusos a tlão,, em o valção do que, uma de a
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: A capital da França é
+GERACAO: o Suto. Aém a penma da mar do Daília.Naje é o de rio.São, de tisto de o rio, a borgio de que que pessoas que as cer, não o seuvem,
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: Escreva uma frase simples em português
+GERACAO: ,. Aém de que o aiteto,, o sar.O SIem de o mer.A  DORA de a que de va de venermento, do CECAMA de a o o linos de car
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: O cachorro correu porque
+GERACAO: se um lido de cenidade, de busto.Moso, de var, que uma gumaras.�o o pácilidade de um seno.Parata é a provura, é que não que que não não ser
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: Maria pegou o ônibus para
+GERACAO: um lação, o mi de féda de a mom. Mer se de vra, que um mar. Ese de cestão do um, vomras e mas os onos, a por, se."guta de a
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: Faça uma pergunta curta
+GERACAO: e que a cercios e senas. Aqual do vistação de um orço da Faco. O, de o festado, e de o calxo.Feção a mimos de lestro que de ident
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: Olá, como você está?
+GERACAO: E!�], de ltia é em ban, de alpo, e e sele (PRUA)) de o óção de Cas do umta da Tenctia, - Dar - Nesma.ao,
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: O Brasil é um país
+GERACAO: , uma bestroia, o rebilar, opre de seutatimento. Poném do Fa de Mâia é os disquar. Sassa um que é a a de emso prentando um seuitepicaso de
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: Era uma vez
+GERACAO: de coo de S�UIILASEFASEOLNBMODEESRSOSD DSOLUDMA DCILOSEAM DTEO de DEAAO de
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: Explique o que é uma árvore
+GERACAO: . Como um misa a seu que, a e sor.Pos vai mais muito para almas das desanças de sacer, e fentadas, a brica-a de o atalre que da um dopgência.
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: Hoje eu fui ao mercado e
+GERACAO: cacor de bOtolos, vai,, não com o martamento.Soja a generra e de e se é e uma que, uma shar de lorma.Posreça o panogão, e é é n
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: A capital da França é
+GERACAO: o Catio do Pondingo.Com Case em sera, a que ser daras e em ate da sua b,. Osita de a lestia, de seu cáso o dia do Caran,,. CE.�
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: Escreva uma frase simples em português
+GERACAO: para o seca de lesto e as la e mas que os meção, como que de pornto das os de cilar.A."quar, da reroto. Nutal- com um vez de óembro, você um memento
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: O cachorro correu porque
+GERACAO: de em.Eo se e apreção e em o asa que de nos vto,. E OSite, mas não um alra.A ara e não  Vos �. Aá.Ter a do que de ti
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: Maria pegou o ônibus para
+GERACAO: mata para e de p"pining o Senho do seupremanior de casção. Nique e, ser a rem de a sos dos bincarres: um fididade para o tlas do pémamento
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: Faça uma pergunta curta
+GERACAO: nte para o cução. Não tarde, de T$ de brausy do Padelo que a sos e e foi de se da ter e o a, sio, que a viário de Co,, fase em Ca e o mon
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: Olá, como você está?
+GERACAO: �, monro da cocos e você que a pervada de lrpado do Corte (ão TTFB. E),, FatIA ESCre� EO São. de  D,, de, o ti
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: O Brasil é um país
+GERACAO: do repulo a âezico é terbidas que bercar em carxes da cidade Grande% vara para as sulação se são seções.�ÜRßM��A AaE!.H S deAVI
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: Era uma vez
+GERACAO: do se, Ceveira do Gére.Euja um bornto, seá no alunte o dia, não vonado como mas e afeções para clência as umvezitada. Podando por os semanos é e de
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: Explique o que é uma árvore
+GERACAO: da seule do selafi."i) para GOVgor de Malf, (A e de Atêgá, os mrio da Pública da Rere da Sama.Iájentente. Nas a curho
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: Hoje eu fui ao mercado e
+GERACAO: que não vrefiosmente na tentasmente, a vidade e mas por tem pessoas a ludar de coso da blhorrcio, o coposta.Esles a reor, fisndo de seus asse eos em lara
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: A capital da França é
+GERACAO: não pregia na Titema de Lagal (O.A Pim- em SU3N�MEraso Fra.º300 e Doquar, que o troro do Donto RPI,, da Per-n
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: Escreva uma frase simples em português
+GERACAO: e a exta o nosbleção F.BCPOSEN, MA  D� PRNTUAMARIMSIANIOMMETIOSOOMO ADA DE BA V
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: O cachorro correu porque
+GERACAO: está por verentes mas de velsa de S$Va, mas o a seidade em beio do BP-. Sáo, brível para PabL�AIuLO PEºV�S,SIAAO F
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: Maria pegou o ônibus para
+GERACAO: cantem e nos tesasres é se que as senteia, com tem eu umjero, acelos não na bite a quedade. Porém tem quei. Epimteni e braxinte não ncá?i
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: Faça uma pergunta curta
+GERACAO: , em Sicroça por Aresta A, - 07,.P.CREARraI EstOMSCA Igir da SOLRV), a corode de lâcanizra Celi.� O
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: Olá, como você está?
+GERACAO: EsEhodanto3 as ser que baguma muito muitoblerrm, é não terres na ver: o formote de dem de tadeigimento... pamisra. A miraja.Pãode-tara ve
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: O Brasil é um país
+GERACAO: que ser.N.�ar você foi o compela a arca, em sustifas que pode as cãos em fidades! Alpois bimacei o de vida!A Epestsizeira: avcrota a suavelpando
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: Era uma vez
+GERACAO: ou o vidação do ano e pestas-teira, bisre em merseres ou é estelívelos góques mais prese por clcios. Asscentalos sobre dovação, a carro e de em
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: Explique o que é uma árvore
+GERACAO: e a esa do va da alre da Bocnon, lhojonidade” em Opa da 200: SOD. C.S.O.AE),7R NI A DUUO-se é/TEalD,R
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: Hoje eu fui ao mercado e
+GERACAO: quatão bejais que os apes! Os um me não exigsãomente um cho mais as muito um prosuagem gizina de em elhor, bE-hico: o dasmacam ou a lenora. A se os
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: A capital da França é
+GERACAO: ser o felina para proteitico em 028.7,8 as exas é que costa veços e os os dido. Evê.Soquão, não eu gá de desospeclencões U-pl
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: Escreva uma frase simples em português
+GERACAO: rea a cartilrito, além o felu que tenhares tlada! Selcaá o Tatelnon.Par não e não tinha que os seumo dove se a uma binadores vimentomente de monular que uma
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: O cachorro correu porque
+GERACAO: mmal a dunia.Calnte em óndam, que ele de binha a ser não. Comntalme, foi a mais que pelri com e você não as não cas mais tem o grande da garito mando: comporia
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: Maria pegou o ônibus para
+GERACAO: ser que, aponsndo esta a copeia de o um tisné que.PEando se, do mo sete-hos de maço para da algecerto no tándo e uma dutro, não ser consegureos
+
+MODELO: motor_toddler_v2_4_step100000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: Faça uma pergunta curta
+GERACAO: celha que em rejetelos ou panta ou As segualhasres% com cissadia Nós cudoo são panadas e dovão para. Énnto são acensircam, sem, por sender com
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: Olá, como você está?
+GERACAO: ‫]RISEO o bo de Telão da CEBEIAMEEARRMSA, Aia da Drear de Coler, Subisga do Morogia da Festado, em
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: O Brasil é um país
+GERACAO: ,, em um proto,.Nor que que um lar a gição, e a lem da vinha. Por que disso deprento do c"ço, o bi, da menia de forquida, as de que do sua de de
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: Era uma vez
+GERACAO: ,, o bite do brio de Dato, de o eles de Sato de Tistro. A.� So é de sestar de de bane com as binos de lor, que tio, a cor
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: Explique o que é uma árvore
+GERACAO: de produtos, se, o mar, e o sua viente que, a seção.A acordo do que, a besto com não, o blar, de que que o ser que se.Ao, o que que de um bero.P
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: Hoje eu fui ao mercado e
+GERACAO: corentes.Saraos um kém de umasa. Einda não, uma um benho." você se a que o meto e o bem fra o ter depre, e tuta. A isso deprença que a binha,
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: A capital da França é
+GERACAO: o Suto. A.20. A1/ORINSASENA CEEARESNONAREASSNRIORSANA DIEADEEO POMAN
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: Escreva uma frase simples em português
+GERACAO: a sua caco que o bá, o que o sar.O entanto, não se é umjos de far de venha e que a a celhos, de uma asos puas para os isso de a valmara que de c"
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: O cachorro correu porque
+GERACAO: é um la de uma fra de � a par, e mais, de sarbon, ver de lar.�o de percar de umjinha e a cota.!�] de o calto de que eu tai
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: Maria pegou o ônibus para
+GERACAO: a lação de bas. Cominda é terpido com o que de que se de o mi.Po de "to!Não de a um lar do que que é,prenças.A rigsa, não e seia a suama
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: A | temperature=0.7 | top_k=20 | top_p=0.85 | repetition_penalty=1.05 | max_new_tokens=60
+PROMPT: Faça uma pergunta curta
+GERACAO: e que a cível, de cestas da lorfia do Ato da Corco, de Melembro, Mara, de o estado, e de o císo-deral de Pas,, ("1.O CIESA
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: Olá, como você está?
+GERACAO: ...�i e, os licia é em binha, olpo, vá, par.Peija por umajher e dogora, a gria é um béme de gelia,, que, não é muito ojir do
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: O Brasil é um país
+GERACAO: , do brio de Sraha, vou e ateu de bErisia, que uma sez do de tinha e é os dação. A isso está, não umjar de a detamentos. Antisia com a rio. M
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: Era uma vez
+GERACAO: em corandias e o cacar. Seo é para uma besta de serse a repersão e mas aciver as felidade e dicilshar oprema, da cuha que e os as de de tarções do b
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: Explique o que é uma árvore
+GERACAO: ntário de umleto a seu que, na e da a.los do genar. Éltadores por sáquida de sader, e frer, a bilar-a de o Porretação.CA, bal
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: Hoje eu fui ao mercado e
+GERACAO: um que as far.Veios não vai, uma cota o marquido no vida.Opoisu, o moco de se é. Querja que uma cato do pracado que com com o dia.A entanto, e é um co
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: A capital da França é
+GERACAO: o gadioça Poso a Meinão da Féário. Antre, a que que se de ajunder o bre. Ogora o dia a lidade que o se das, não a seto com deprenencável. Nonere
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: Escreva uma frase simples em português
+GERACAO: para de sequa de fo e atema e mas que os medade, como que de poras de me de creme. Dáso o bãta. Fe.osu: de solico e "os um inha de que
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: O cachorro correu porque
+GERACAO: de oa.�tar e a seção e em olndão de lanincé. E a lado do bo da que do srara.Ao, eu é o digo de mas eu uma tão com. Au a solvir e
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: Maria pegou o ônibus para
+GERACAO: um varo de dar para tomcios, felgidas, e ser se a que o suasas sência mais, ser a reção de manidade dos bercis? Se, quou, a mensa com par e uma s
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: B | temperature=0.8 | top_k=40 | top_p=0.9 | repetition_penalty=1.1 | max_new_tokens=60
+PROMPT: Faça uma pergunta curta
+GERACAO: nte para o seuite, Pedão para Miquou de braus. Aso o ata de sateira e o madão, a sâia.A no que a vição de codos, cacar com render um m
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: Olá, como você está?
+GERACAO: �, monos da cotado e você queá não o mace, a a se.ajando no verdulo me que. Entima de gos e um tinha que o que que tre que. “ara quezbem, nero p
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: O Brasil é um país
+GERACAO: do Sescentemento para e a prople dos mios.Es issompera seá mais a mais se var para as sremaias o seu prohos, garacéfia. Seja o bosque Pam de Izle
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: Era uma vez
+GERACAO: do seção se o quacito é alntos nos parres.Ao seá no alunte o dia, não vonado que mas e muito para uma sendeia a ganticação uma fomrinando por os sebusi e de
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: Explique o que é uma árvore
+GERACAO: da sho do sO da Ci.Riquhiz, de procão de Sol,res e e sento como a exso, os mimde na cestidade penerr a ai do momento.�"so de é
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: Hoje eu fui ao mercado e
+GERACAO: . Táreça a car." eu o pelado, não o vida por mormcimo linão, ojlem a quempa ontro de os que de que a coco, fisndo de uma a dposbação. V
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: A capital da França é
+GERACAO: não pregou na Titeio onde e a que de se. fima o farr do custo (A FBIG.� CHR T MDADASPLITA OSE,, bIATE
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: Escreva uma frase simples em português
+GERACAO: e a exça o Senleção F. O]4 milhões (com0, Máca o Ma de, o primeiro Paulo, da Comcony, é no Da de Esmnvimento.O colcem a coato a mei
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: O cachorro correu porque
+GERACAO: está para virde o camxã. “áque pode a quebou a poua!Emao, não sabhamente vomnta,, o omndam!uncém é é bem com torsei.� a a redio:
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: Maria pegou o ônibus para
+GERACAO: cicama e você tredesres é pormanada.Os lenáriomente,. Sais um covos não em bite a que lasos de gáx. Epimário o coer é o suatatento nráo?”
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: C | temperature=1.0 | top_k=50 | top_p=0.95 | repetition_penalty=1.15 | max_new_tokens=60
+PROMPT: Faça uma pergunta curta
+GERACAO: , semente que." isso para caúpé” ou vage a fétamento de Blo.�OMontio em Barw.com e, está folas e a de lomcir do Celi. Os
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: Olá, como você está?
+GERACAO: EsEhoda ser de bal que dos alus, muito só do qual prá é vemndo por tuesres os prosete de drar de tadção e!Mão sabisnta a pertinha ser.Pão um que as budo de
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: O Brasil é um país
+GERACAO: que mas.Não o caisça de Ema a Inca, já em fomus as lérios cou em tato!Lolão ao coi. Helando, demram para para de vlvil do trarito no que em
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: Era uma vez
+GERACAO: mente está, elevam.Qule sere-tse e com em testomentos, por cadicas dos deprender dos seuvem (anici o carPoia masá como sua mouo é pucar uma seu compar em
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: Explique o que é uma árvore
+GERACAO: cionar e seus bana na alpreselado do corta.Tomejonidade” em um lalro: mavits (OSHO.A e “[R Nmutidei do Somogitha �rná
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: Hoje eu fui ao mercado e
+GERACAO: a susnder do oção que os pessoas por nãopão por os para mocodo um cho mais as uma morentesos gar para é em elhor, bei- o niafação?Gambêque,:9 o seu retomento
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: A capital da França é
+GERACAO: ser o felina da proiçãores de seu pocada. Alispilada com é os costa vido uma alir petão pelo Proves.Soquão, não eu gá de de tempo tem acolando  Hlapem
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: Escreva uma frase simples em português
+GERACAO: rea a cartilrito lando o Deltil. Srejares t! S-Ey o Tatelgonizinar por e não nível marou do dia se a história e a cirresção de nanação um que uma
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: O cachorro correu porque
+GERACAO: m com a didade em foia sente ser perva a te, darmente binha a Cur. Falte lai a lar de reito não e desdida não isso Ru que para pronto as carto: em rez
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: Maria pegou o ônibus para
+GERACAO: ser que, aponsndo esta a cotradoções o umquisné que ou meção do sresa de exúte-ito; mimgesrar posta a vacador lEo e uma dutro, não ser treos
+
+MODELO: motor_toddler_v2_4_step130000.pth
+ARQUITETURA: toddler
+CONFIG: D | temperature=1.6 | top_k=60 | top_p=0.97 | repetition_penalty=1.25 | max_new_tokens=60
+PROMPT: Faça uma pergunta curta
+GERACAO: , à formae em rejetupos ou perentei ou íveis valsturama iniar com fipão de cessoo no panbãos do Iícilsidade de tadeiro bestacam e mabeco se-er
